@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/skan_project/static/css/main.11e65fcd.css",
+    "main.js": "/skan_project/static/js/main.5681a9cb.js",
+    "static/media/Inter-Regular.ttf": "/skan_project/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/ferry_black.otf": "/skan_project/static/media/ferry_black.8d1c2bfebe1bfba898ae.otf",
+    "static/media/main.png": "/skan_project/static/media/main.48465ff8549f52045b8c.png",
+    "static/media/why.png": "/skan_project/static/media/why.171723f830038fce8821.png",
+    "static/media/girl.png": "/skan_project/static/media/girl.ae2b4a8358709908da83.png",
+    "static/media/search.png": "/skan_project/static/media/search.600c7ccbad5ff9792b4d.png",
+    "static/media/key.png": "/skan_project/static/media/key.11038ac2a2d68209ff44.png",
+    "static/media/close.svg": "/skan_project/static/media/close.5742712aa2c93d0176041309f71e1eae.svg",
+    "index.html": "/skan_project/index.html",
+    "main.11e65fcd.css.map": "/skan_project/static/css/main.11e65fcd.css.map",
+    "main.5681a9cb.js.map": "/skan_project/static/js/main.5681a9cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11e65fcd.css",
+    "static/js/main.5681a9cb.js"
+  ]
+}
